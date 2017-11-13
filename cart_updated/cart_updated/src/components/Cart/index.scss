@@ -1,0 +1,59 @@
+aside{
+  float: right;
+  width: 300px ;
+  height:700px;
+  background-color:#37C696;
+  color:#ffffff;
+  margin-top:-19px;
+  margin-right:50px;
+}
+
+h3{
+  text-align: center;
+  font-weight:bold;
+}
+h6{
+  text-align:center;
+  margin-top: -5px;
+}
+
+.CartImg {
+  width: 50px;
+  height: 50px;
+  margin: 3px 20px 0px 20px;
+}
+button{
+  color:black;
+  border-radius:0px;
+  margin:0px 5px;
+}
+
+.cart-item__price{
+margin-left:20px;
+color:black;
+ }
+
+ .CartBtn{
+ background-color:white;
+ }
+
+ .cart-item{
+  color:black;
+  background-color:#5fd3ac;
+  
+ }
+ p{
+  text-align:right;
+  color:white;
+  font-weight:bold;
+ }
+ 
+ .total {
+   margin-right: 10px;
+ }
+
+ .confirm {
+   margin-left: 150px;
+   background-color:#5fd3ac;
+   border: 1px solid #5fd3ac;
+ }
